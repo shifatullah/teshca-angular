@@ -9,7 +9,7 @@ import { ViewChild } from '@angular/core'
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'ngTescha';
+  title = 'ngTeshca';
   @ViewChild(MatSidenav)
   sidenav!: MatSidenav;
 
